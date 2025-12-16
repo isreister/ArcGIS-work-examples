@@ -3,3 +3,5 @@ To obtain a subset of a large online database (e.g. Terrain), that is fit to you
 Make sure to set the "Raster Properties> columns" and "rows" to 5000 or less. 
 Create the .tiff file using display limits.
 You now have a managable .tiff file that can be used to create contours or complete other data analysis on.
+
+
